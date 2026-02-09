@@ -1,7 +1,7 @@
 # Transformer 详解
 > by @Laizhuocheng
 
-![总体概括图](assets/images/Abstract1.png)
+![总体概括图](./assets/images/Abstract1.png)
 ## 一、为什么需要新的架构
 
 在 Transformer 出现之前，处理文本的主流方法是 RNN 及其改进版 LSTM。它们有几个比较头疼的问题。
