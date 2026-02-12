@@ -11,6 +11,7 @@
 - [什么是 Transformer](./20260209-what-is-Transformer/what-is-Transformer.md) - Transformer 架构详解：从原理到优化
 - [什么是 LLM 蒸馏技术](./20260209-what-is-LLM-distill/what-is-LLM-distill.md) - 大语言模型知识蒸馏技术解析
 - [什么是 LLM Fine-tuning](./20260212-what-is-LLM-Fine-tuning/what-is-LLM-Fine-tuning.md) - 大语言模型微调技术详解
+- [什么是 RAG](./20260212-what-is-RAG/what-is-RAG.md) - 检索增强生成技术详解：让 AI 告别幻觉
 
 ---
 
