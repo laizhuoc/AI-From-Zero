@@ -14,6 +14,7 @@
 - [什么是 RAG](./20260212-what-is-RAG/what-is-RAG.md) - 检索增强生成技术详解：让 AI 告别幻觉
 - [什么是 LoRA](./20260213-what-is-LoRA/what-is-LoRA.md) - LoRA 低秩适配技术详解：用 1.6% 的参数微调大模型
 - [什么是 AI Agent](./20260214-what-is-AI-Agent/what-is-AI-Agent.md) - AI Agent 智能体详解：从工具到数字员工
+- [什么是 MoE 模型](./20260215-what-is-MoE-model/what-is-MoE-model.md) - MoE 混合专家模型详解：用稀疏激活实现高效扩展
 ---
 
 ## 🤝 贡献
