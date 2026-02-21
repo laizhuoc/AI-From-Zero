@@ -17,6 +17,8 @@
 - [什么是 MoE 模型](./20260215-what-is-MoE-model/what-is-MoE-model.md) - MoE 混合专家模型详解：用稀疏激活实现高效扩展
 - [什么是 AI 幻觉](./20260217-what-is-ai-hallucination/what-is-ai-hallucination.md) - AI 幻觉技术原理详解：从成因到 Text2SQL 实战
 - [什么是向量嵌入](./20260217-what-is-vector-embedding/what-is-vector-embedding.md) - Vector Embedding 详解：从文本到向量的语义转换
+- [什么是向量数据库](./20260221-what-is-vector-database/what-is-vector-database.md) - 向量数据库入门：从精确匹配到语义理解
+
 ---
 
 ## 🤝 贡献
