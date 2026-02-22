@@ -18,6 +18,7 @@
 - [什么是 AI 幻觉](./20260217-what-is-ai-hallucination/what-is-ai-hallucination.md) - AI 幻觉技术原理详解：从成因到 Text2SQL 实战
 - [什么是向量嵌入](./20260217-what-is-vector-embedding/what-is-vector-embedding.md) - Vector Embedding 详解：从文本到向量的语义转换
 - [什么是向量数据库](./20260221-what-is-vector-database/what-is-vector-database.md) - 向量数据库入门：从精确匹配到语义理解
+- [什么是 Tokenization](./20260222-what-is-tokenization-in-llm/what-is-tokenization-in-llm.md) - 深入理解 LLM 的语言编码：为什么 ChatGPT 要把"人工智能"拆成两个 Token？
 
 ---
 
