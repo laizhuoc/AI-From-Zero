@@ -19,7 +19,9 @@
 - [什么是向量嵌入](./20260217-what-is-vector-embedding/what-is-vector-embedding.md) - Vector Embedding 详解：从文本到向量的语义转换
 - [什么是向量数据库](./20260221-what-is-vector-database/what-is-vector-database.md) - 向量数据库入门：从精确匹配到语义理解
 - [什么是 Tokenization](./20260222-what-is-tokenization-in-llm/what-is-tokenization-in-llm.md) - 深入理解 LLM 的语言编码：为什么 ChatGPT 要把"人工智能"拆成两个 Token？
-- [什么是困惑度](./20260226-what-is-perplexity-in-LLM/20260226-what-is-perplexity-in-LLM.md) - 困惑度（Perplexity）详解：评估大语言模型的核心指标
+- [什么是困惑度](./20260226-what-is-perplexity-in-LLM/what-is-perplexity-in-LLM.md) - 困惑度（Perplexity）详解：评估大语言模型的核心指标
+- [什么是 n-grams 语言模型](./20260302-what-is-ngrams-language-model/what-is-ngrams-language-model.md) - n-grams 语言模型详解：从统计规律到现代语言模型
+- [什么是 RNN 长距离依赖](./20260302-what-is-rnn-long-distance-dependency/what-is-rnn-long-distance-dependency.md) - RNN 长距离依赖问题详解：从梯度消失到 Transformer
 
 ---
 
