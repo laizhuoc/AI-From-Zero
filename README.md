@@ -23,6 +23,7 @@
 - [什么是 n-grams 语言模型](./20260302-what-is-ngrams-language-model/what-is-ngrams-language-model.md) - n-grams 语言模型详解：从统计规律到现代语言模型
 - [什么是 RNN 长距离依赖](./20260302-what-is-rnn-long-distance-dependency/what-is-rnn-long-distance-dependency.md) - RNN 长距离依赖问题详解：从梯度消失到 Transformer
 - [什么是随机采样](./20260303-what-is-random-sampling/what-is-random-sampling.md) - 随机采样技术详解：从贪心搜索到温度控制
+- [什么是 top-k 采样](./20260303-what-is-top-k-sampling/what-is-top-k-sampling.md) - top-k 采样技术详解：在合理性与多样性间取得平衡
 
 ---
 
