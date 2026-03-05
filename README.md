@@ -26,6 +26,7 @@
 - [什么是 top-k 采样](./20260303-what-is-top-k-sampling/what-is-top-k-sampling.md) - top-k 采样技术详解：在合理性与多样性间取得平衡
 - [什么是 Temperature](./20260304-what-is-temperature-parameter/what-is-temperature-parameter.md) - 温度参数详解：控制 AI 的创造性和保守性
 - [什么是外在评估](./20260304-what-is-extrinsic-evaluation/what-is-extrinsic-evaluation.md) - 外在评估详解：从实际应用效果衡量AI性能
+- [什么是"大数据+大模型"范式](./20260305-what-is-big-data-big-model/what-is-big-data-big-model.md) - "大数据+大模型"范式详解：从规模定律到涌现能力
 
 ---
 
