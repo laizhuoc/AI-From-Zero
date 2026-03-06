@@ -1,5 +1,3 @@
-🚀 本文收录于Github：AI-From-Zero 项目 —— 一个从零开始系统学习 AI 的知识库。如果觉得有帮助，欢迎 ⭐ Star 支持！
-
 # 什么是Encoder-only架构？为什么BERT只需要"读懂"而不需要"生成"？
 ![总体概括图](./assets/images/image.png)
 
